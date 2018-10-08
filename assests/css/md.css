@@ -1,0 +1,93 @@
+@media (max-width: 991.98px){
+    .tamas-bama-footer{
+        text-align: center!important;
+    }
+    .bg2 {
+        background: whitesmoke!important;
+    }
+    .kadamat-vip {
+        margin: 50px 0 50px;
+        text-align: center;
+    }
+    .post {
+        display: inline-block;
+        width: 100%;
+        padding: 0;
+    }
+    .tarikh-nazar {
+        background: #d6bfa8;
+        border-radius: 100%;
+        width: 23%;
+        padding: 45px 0;
+        text-align: center;
+        display: inline-block;
+    }
+    .footer {
+        padding: 50px 0!important;
+        background: #000000a8;
+    }
+    .input-nazarat {
+    background: #f2f2f2;
+    width: 100%;
+    border: none;
+    color: #1a1a1a;
+    padding: 0 2%;
+    }
+    .input-nazarat:first-of-type {
+    margin: 5% 0;
+    }
+    .menu-header li {
+    display: inline-block;
+    list-style: none;
+    padding: 15px;
+    }
+    .button {
+    margin: 0 auto;
+    width: 40%;
+    text-align: center;
+    padding: 35px;
+    float: none;
+    }
+    .menu-header-2 li {
+    display: inline-block;
+    list-style: none;
+    padding: 15px;
+    }
+    .button2 {
+    margin: 0 auto;
+    width: 40%;
+    text-align: center;
+    padding: 35px;
+    float: none;
+    }
+    .rhf-input-box2 select{
+        padding:0;
+        
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
